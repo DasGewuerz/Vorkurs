@@ -24,6 +24,6 @@ void main(/* arguments */) {
     printf("%f\n", yard);
     break;
     default:
-    printf("Keine gültige Eingabe\n", );
+    printf("Keine gültige Eingabe\n");
   }
 }
